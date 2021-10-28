@@ -47,3 +47,6 @@ This repository is built step by step in the tutorial.
 - git branch
 - git checkout &lt;nombre-branch&gt; 
 - git checkout -b &lt;nombre-branch&gt; 
+
+- git merge &lt;nombre-merge&gt; 
+- git branch -d &lt;nombre-merge&gt; 
