@@ -50,3 +50,12 @@ This repository is built step by step in the tutorial.
 
 - git merge &lt;nombre-merge&gt; 
 - git branch -d &lt;nombre-merge&gt; 
+
+- git remote add &lt;origin URL&gt; 
+- git push --set-upstream origin master 
+
+- git fetch origin
+- git log origin/master
+- git diff origin/master
+- git merge origin/master
+- git pull origin
