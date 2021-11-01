@@ -59,3 +59,7 @@ This repository is built step by step in the tutorial.
 - git diff origin/master
 - git merge origin/master
 - git pull origin
+
+- git branch -a
+- git branch -r
+- git checkout -b update-readme
